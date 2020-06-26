@@ -1,0 +1,7 @@
+.webcam-wrapper {
+  position: relative;
+}
+
+.canvas {
+  position: absolute;
+}
